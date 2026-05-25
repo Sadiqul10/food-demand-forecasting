@@ -340,8 +340,8 @@ If you found this project helpful:
 
 For queries or collaboration:
 
-* GitHub: (https://github.com/your-username](https://github.com/your-username](https://github.com/Sadiqul10/food-demand-forecasting).
-* Streamlit App: (https://food-demand-forecasting.streamlit.app/](https://food-demand-forecasting.streamlit.app/)
+* GitHub:(https://github.com/Sadiqul10/food-demand-forecasting).
+* Streamlit App: (https://food-demand-forecasting.streamlit.app/)
 
 ---
 
