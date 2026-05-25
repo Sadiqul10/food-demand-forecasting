@@ -302,20 +302,19 @@ Contributions are welcome.
 
 This project demonstrates:
 
-* Machine Learning implementation
-* Data preprocessing techniques
-* Streamlit web deployment
-* Forecasting methodologies
 * Python project structure
+*  Machine Learning implementation
+* Data preprocessing techniques
+* Forecasting methodologies
 * Data visualization skills
-
+* Streamlit web deployment
 ---
 
 ## 👨‍💻 Author
 
 ### Sadiqul Islam
 
-Final Year Computer Science Student
+Data Science  Intern 
 
 ---
 
@@ -341,8 +340,8 @@ If you found this project helpful:
 
 For queries or collaboration:
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Streamlit App: [https://food-demand-forecasting.streamlit.app/](https://food-demand-forecasting.streamlit.app/)
+* GitHub: (https://github.com/your-username](https://github.com/your-username](https://github.com/Sadiqul10/food-demand-forecasting).
+* Streamlit App: (https://food-demand-forecasting.streamlit.app/](https://food-demand-forecasting.streamlit.app/)
 
 ---
 
